@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(to right, #CBCE91FF, #EA738DFF);
+}
+.row{
+    margin: auto;
+    max-width: fit-content;
+    font-weight: bolder;
+}
+
+.button{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 50px;
+    display: inline-block;
+    cursor: pointer;
+    background: rgb(211, 206, 206);
+}
+.button:hover{
+    font-weight: bolder;
+}
+
+#clear{
+    background: rgb(123, 223, 123);
+}
+#btn{
+    background: rgb(132, 205, 230);
+}
+
+#screen{
+    margin: 10px;
+    padding: 10px;
+    width: 280px;
+    height: 30px;
+    border: 2px solid black;
+    background: whitesmoke;
+    border-radius: 20px;
+}
